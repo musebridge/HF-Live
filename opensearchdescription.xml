@@ -1,0 +1,5 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Hungry Forever</ShortName>
+<Description>Food Blog,Recipes,Restaurants,News,Places to Eat-Chennai,Bangalore,Delhi,Mumbai,India</Description>
+<Url type="text/html" template="http://www.google.com/search?q=site:www.hungryforever.com {searchTerms}"/>
+</OpenSearchDescription>
