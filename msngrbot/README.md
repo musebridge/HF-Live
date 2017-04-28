@@ -1,7 +1,7 @@
-FB Messenger Bot PHP API Sample
+FB Messenger Bot PHP API
 ========================
 
-This is an example for Facebook Messenger PHP Bot API - [https://github.com/pimax/fb-messenger-php](https://github.com/pimax/fb-messenger-php)
+This is a PHP implementation for Facebook Messenger Bot API.
 
 REQUIREMENTS
 ------------
@@ -11,11 +11,9 @@ INSTALLATION
 ------------
 
 ```
-composer install
+composer require "pimax/fb-messenger-php" "dev-master"
 ```
 
-```
-cp config_sample.php config.php
-```
-
-Specify token and verify_token in the config.php
+BASIC USAGE
+------------
+See this repo - [https://github.com/pimax/fb-messenger-php-example](https://github.com/pimax/fb-messenger-php-example)

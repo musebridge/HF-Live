@@ -35,8 +35,12 @@ define( 'AWS_ACCESS_KEY_ID', 'AKIAI2QUFRVRNHN2INOA' );
 define( 'AWS_SECRET_ACCESS_KEY', '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' );
 
 $table_prefix = 'wp_';
-define('WP_DEBUG', false); 
-
+/*
+define('WP_DEBUG', true);
+define( 'WP_DEBUG_LOG', true );
+define( 'WP_DEBUG_DISPLAY', false );
+*/
+define('WP_DEBUG', false);
 define('WP_MEMORY_LIMIT', '256M');
 
 /* That's all, stop editing! Happy blogging. */
